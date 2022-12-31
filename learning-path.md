@@ -286,7 +286,7 @@ Jour 50 : Déploiement des applications Next.js
 
 - Comprendre le processus de déploiement des applications Next.js
 - Mise en place d'un environnement de production et déploiement sur une plateforme Cloud telle que AWS ou Heroku
-- Optimiser le processus de construction et les performances d'une application Next.js
+- Optimiser le processus de création et les performances d'une application Next.js
 
 Jour 51 : Async/await et Promesses en profondeur
 
@@ -433,7 +433,7 @@ Jour 74 : Optimisation des performances de React
 
 Jour 75 : Les meilleures pratiques de React
 
-- Comprendre les meilleures pratiques pour construire et maintenir des applications React
+- Comprendre les meilleures pratiques pour créer et maintenir des applications React
 - Mise en œuvre d'un style de code et d'une convention de dénomination cohérents.
 - Outils de débogage tels que ESLint et Prettier pour faire respecter les normes de code
 
@@ -451,7 +451,7 @@ Connecter une fonction Lambda à d'autres services AWS tels que S3 et DynamoDB
 
 Jour 78 : Modèles d'architecture sans serveur
 
-- Comprendre les modèles communs pour construire des architectures sans serveur.
+- Comprendre les modèles communs pour créer des architectures sans serveur.
 - Mise en œuvre d'une architecture pilotée par les événements avec les fonctions Lambda et les événements AWS
 - Construire une architecture de microservices avec des fonctions Lambda et API Gateway
 
@@ -535,19 +535,19 @@ Installation et utilisation des paquets du registre
 
 Jour 92 : Construction d'une plateforme de traitement d'images sans serveur avec AWS Lambda et AWS S3
 
-- Comprendre le concept de construction d'une plateforme de traitement d'images sans serveur avec AWS Lambda et AWS S3.
+- Comprendre le concept de création d'une plateforme de traitement d'images sans serveur avec AWS Lambda et AWS S3.
 - Configuration d'un compte AWS et création d'une fonction Lambda
 - Connexion d'une fonction Lambda à AWS S3 et mise en œuvre de tâches de traitement d'images.
 
 Jour 93 : Création d'un environnement de ligne de commande avec Node.js
 
-- Comprendre le concept de construction d'un outil de ligne de commande avec Node.js
+- Comprendre le concept de création d'un outil de ligne de commande avec Node.js
 - Configuration d'un projet Node.js avec une interface de ligne de commande
 - Analyser les arguments et les options de la ligne de commande
 
 Jour 94 : Création d'une API REST avec Node.js
 
-- Comprendre le concept de construction d'une API REST avec Node.js
+- Comprendre le concept de création d'une API REST avec Node.js
 - Configurer un serveur Node.js avec Express.js
 - Implémentation de routes CRUD et traitement des requêtes HTTP
 
@@ -559,10 +559,10 @@ Jour 95 : Création d'une API GraphQL avec Node.js
 
 Jour 96 - a : Construire une application de chat en temps réel avec Node.js, AWS Lambda et WebSockets
 
-- Comprendre le concept de la construction d'une application de chat en temps réel avec Node.js
+- Comprendre le concept de la création d'une application de chat en temps réel avec Node.js
 - Configurer un serveur Node.js avec Socket.io
 - Implémenter une interface de chat et gérer les messages en temps réel
-- Comprendre le concept de la construction d'une application de chat en temps réel sans serveur avec AWS Lambda et WebSockets.
+- Comprendre le concept de la création d'une application de chat en temps réel sans serveur avec AWS Lambda et WebSockets.
 - Configuration d'un compte AWS et création d'une fonction Lambda
 - Connexion d'une fonction Lambda à une API WebSocket et mise en œuvre d'une interface de chat.
 
@@ -580,7 +580,7 @@ Jour 98 : Création d'un éditeur de document collaboratif en temps réel sans s
 
 Jour 99 : Construction d'une architecture de microservices sans serveur avec AWS Lambda et API Gateway
 
-- Comprendre le concept de construction d'une architecture de microservices sans serveur avec AWS Lambda et API Gateway.
+- Comprendre le concept de création d'une architecture de microservices sans serveur avec AWS Lambda et API Gateway.
 - Connexion des fonctions Lambda à API Gateway et création d'une API REST.
 
 Jour 100 : Création d'une plateforme de e-commerce sans serveur avec AWS Lambda et Stripe
